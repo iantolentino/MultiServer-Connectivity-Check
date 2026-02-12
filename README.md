@@ -5,7 +5,7 @@ The checks are read‑only and do not modify or authenticate to any remote syste
 
 ## Overview
 
-The scripts perform:
+The scripts perform: 
 
 *   ICMP echo requests (ping) to confirm basic network reachability.
 *   TCP connection attempts to specified ports using .NET `TcpClient`.
